@@ -20,8 +20,8 @@
 
 
 //  configuración datos wifi
-#define WIFI_AP "WIFIORT"
-#define WIFI_PASSWORD "PASSWORDORT"
+#define WIFI_AP "HUAWEI-IoT"
+#define WIFI_PASSWORD "ORTWiFiIoT"
 
 
 
