@@ -20,8 +20,8 @@
 
 
 //  configuración datos wifi
-#define WIFI_AP "CASA"
-#define WIFI_PASSWORD "ELEFANTE7"
+#define WIFI_AP "WIFIORT"
+#define WIFI_PASSWORD "PASSWORDORT"
 
 
 
